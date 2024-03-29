@@ -1,6 +1,7 @@
 ## COMON GIT COMMANDS ##
 
 1. git init: Initialize a new Git repository.
+
 2. git clone: Clone a repository into a new directory.
 git add: Add file contents to the index.
 git commit: Record changes to the repository.
